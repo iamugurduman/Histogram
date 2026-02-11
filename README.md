@@ -1,1 +1,1 @@
-Capsule for NovaVision
+Capsule for NOVAVISION
